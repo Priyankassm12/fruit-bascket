@@ -1,0 +1,97 @@
+#aa{
+		height: 80px;
+		width: 1500px;
+		border:1px dashed;
+		background: palegreen;
+		color: grey;
+		font-size: 60px;
+	 margin: auto;
+	 background: -webkit-linear-gradient(left,red,green,yellow,pink,blue,orange,firebrick,cyan,tomato);
+}
+#cc{
+	height: 200px;
+	width: 370px;
+	border: 1px dashed;
+	float: left;
+}
+#dd{
+	height: 200px;
+	width: 370px;
+	border: 1px dashed;
+	float: left;
+}
+#ee{
+	height: 200px;
+	width: 370px;
+	border: 1px dashed;
+	float: left;
+}
+#ff{
+	height: 200px;
+	width: 370px;
+	border: 1px dashed;
+	float: left;
+}
+#gg{
+	height: 200px;
+	width: 1500px;
+	border: 1px dashed;
+	margin: auto;
+}
+#hh{
+	height: 200px;
+	width: 500px;
+	border: 1px dashed;
+	float: left;
+}
+#ii{
+	height: 200px;
+	width: 500px;
+	border: 1px dashed;
+	float: left;
+	color: pink;
+	background: black;
+}
+#jj{
+	height: 200px;
+	width: 496px;
+	border: 1px dashed;
+	float: left;
+}
+#kk{
+	height: 200px;
+	width: 1500px;
+	border: 1px dashed;
+	margin: auto;
+}
+#ll{
+	height: 200px;
+	width: 750px;
+	border: 1px dashed;
+	float: left;
+}
+#mm{
+	height: 200px;
+	width: 740px;
+	border: dashed;
+	float: left;
+	color: #6B8E23;
+	background: black;
+}
+
+#nn{
+		height: 200px;
+		width: 1500px;
+		border:1px dashed;
+		font-size: 60px;
+	 margin: auto;
+}
+#oo{
+	height: 80px;
+	width: 1500px;
+	border: 1px dashed;
+	margin: auto;
+	color: grey;
+	background: tomato;
+	background: -webkit-linear-gradient(left,red,green,yellow,pink,blue,orange,firebrick,cyan,tomato);
+}
